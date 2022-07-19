@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\Entities\\Entities\\Entities.csproj": {}
+    "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\NorthwindAPI\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\Entities\\Entities\\Entities.csproj": {
+    "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\NorthwindAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\Entities\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\NorthwindAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\Entities\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\NorthwindAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ismailhakki.ozcelik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\Entities\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ismailhakki.ozcelik\\source\\repos\\northwind-net-core-api\\NorthwindAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismailhakki.ozcelik\\AppData\\Roaming\\NuGet\\NuGet.Config",
