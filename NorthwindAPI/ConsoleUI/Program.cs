@@ -10,9 +10,9 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             ProductManager productManager = new ProductManager(new EfProductDal());
-            foreach (var product in productManager.GetAll())
+            foreach (var product in productManager.GetProductDetails())
             {
-                Console.WriteLine(product.ProductName);
+                Console.WriteLine("Ürün adı : " + product.ProductName + " /  Kategori adı : " + product.CategoryName);
             }
         }
     }
